@@ -25,4 +25,3 @@ $ sails lift
 
 + Heavily inspired by Sinopias upstream/local-fs modules
 + An application built with [Sails](http://sailsjs.org).
-
